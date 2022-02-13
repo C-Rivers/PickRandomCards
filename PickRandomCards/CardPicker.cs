@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PickRandomCards
 {
-    internal class CardPicker
+    class CardPicker
     {
         static Random random = new Random();
 
